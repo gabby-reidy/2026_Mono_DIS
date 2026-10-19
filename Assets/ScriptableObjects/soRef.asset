@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 836691d075501d046a0fee0581aaf1a2, type: 3}
+  m_Name: soRef
+  m_EditorClassIdentifier: Assembly-CSharp::soRef
+  playerPieces:
+  - {fileID: 11400000, guid: 707a25059c0e1544ca8f19cab9e1ec10, type: 2}
+  - {fileID: 11400000, guid: 56391dcc1067b8946b92759ea459a055, type: 2}
+  - {fileID: 11400000, guid: e019f4010dad42549ae505ab62fbadb5, type: 2}
+  - {fileID: 11400000, guid: 82f1e3612e176014d8fd9fa79ddf4b60, type: 2}
+  - {fileID: 11400000, guid: 0fad20e47f6d08443bb1f99252e52c35, type: 2}
+  - {fileID: 11400000, guid: fabf473c28914c0439d6127b5f76eab9, type: 2}
+  - {fileID: 11400000, guid: 5d62bcc5b5bf15a4cb48cf85b538fa86, type: 2}
+  - {fileID: 11400000, guid: e309c8ed65e2f6648a8f36489896bb61, type: 2}
+  playerTypes:
+  - {fileID: 11400000, guid: f63b5188687c12742994bebe848bbba8, type: 2}
+  - {fileID: 11400000, guid: 02507461b61d70d459dc3f8bf065e0ac, type: 2}
+  - {fileID: 11400000, guid: c6ebca0e17569b341840ab48640a3744, type: 2}
+  playerColors:
+  - {r: 0, g: 0.17274201, b: 1, a: 1}
+  - {r: 0.9559822, g: 1, b: 0, a: 1}
+  - {r: 1, g: 0, b: 0.630774, a: 1}
+  - {r: 1, g: 0.0107850125, b: 0, a: 1}
